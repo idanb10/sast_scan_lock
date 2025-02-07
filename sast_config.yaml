@@ -1,0 +1,3 @@
+SAST_username: <username>
+SAST_password: <password>
+SAST_server_name: <your-server-url>
